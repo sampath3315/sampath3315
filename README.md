@@ -34,13 +34,6 @@
 
 💡 I enjoy transforming raw data into meaningful insights through dashboards, reports, and analytical solutions.
 
-🌱 **Currently Learning**
-
-- Advanced SQL
-- Power BI (DAX & Power Query)
-- Python for Data Analytics
-- Business Intelligence
-
 💼 **Looking for**
 
 - Data Analyst
@@ -75,13 +68,14 @@
 
 ---
 
-## 🛒 Amazon Sales Analysis Dashboard
+## 🛒 Ecommerce Sales Analysis Dashboard
 
 📌 Built an interactive dashboard to analyze sales performance and business KPIs.
 
 **Tools Used**
 
-- Excel
+- Python(Pandas)
+- SQL
 - Power BI
 
 ---
@@ -89,18 +83,6 @@
 ## 📊 Excel Business Dashboard
 
 📌 Created dynamic dashboards using Pivot Tables, Charts, KPIs, and Slicers.
-
----
-
-## 🐍 Python Data Analysis
-
-📌 Performed data cleaning, exploratory data analysis (EDA), and visualization using Python.
-
-**Libraries**
-
-- Pandas
-- NumPy
-- Matplotlib
 
 ---
 
