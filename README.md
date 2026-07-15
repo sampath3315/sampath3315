@@ -34,11 +34,9 @@
 
 💡 I enjoy transforming raw data into meaningful insights through dashboards, reports, and analytical solutions.
 
-💼 **Looking for**
+## 💼 Open to Opportunities
 
-- Data Analyst
-- Business Analyst
-- Business Intelligence Analyst
+I'm actively seeking entry-level Data Analyst and Business Analyst opportunities where I can apply my skills in SQL, Python, Power BI, and Excel to solve real-world business problems and continue growing as a data professional.
 
 ---
 
