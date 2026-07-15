@@ -51,8 +51,6 @@
 
 # 🛠️ Tech Stack
 
-## 🛠️ Tech Stack
-
 - Python
 - SQL
 - Power BI
