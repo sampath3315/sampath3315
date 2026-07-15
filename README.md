@@ -34,8 +34,6 @@
 
 📈 Building dashboards that solve business problems
 
-📚 Learning Advanced SQL, DAX & Python
-
 💼 Open to Data Analyst opportunities
 
 ---
