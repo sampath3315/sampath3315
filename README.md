@@ -1,13 +1,18 @@
-<div align="center">
+<p align="center">
+  <img src="assets/banner.png" alt="Dhytharam Sampath Reddy Banner" width="100%">
+</p>
 
-# 👋 Hi, I'm Dhytharam Sampath Reddy
+<h1 align="center">Hi 👋, I'm Dhytharam Sampath Reddy</h1>
 
-### 📊 Aspiring Data Analyst | SQL | Python | Power BI | Excel
+<h3 align="center">
+📊 Aspiring Data Analyst | SQL | Python | Power BI | Excel
+</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Transforming+Raw+Data+into+Business+Insights;Power+BI+Dashboard+Developer;SQL+%7C+Python+%7C+Excel+%7C+Data+Visualization;Open+to+Data+Analyst+Opportunities" />
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=Transforming+Raw+Data+into+Business+Insights;Power+BI+Dashboard+Developer;SQL+%7C+Python+%7C+Excel+%7C+Data+Visualization;Open+to+Data+Analyst+Opportunities"/>
+</p>
 
-<br>
-
+<p align="center">
 <a href="https://www.linkedin.com/in/dhytharam-sampath-reddy-2a6067319/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
@@ -17,34 +22,42 @@
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=sampath3315&style=for-the-badge&color=blue"/>
-
-</div>
+</p>
 
 ---
 
-# 🚀 About Me
+# 👨‍💻 About Me
 
-<img align="right" width="380" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzA4aHNhMzA2ZnQ5cnk3ZWpkNnd5Y2k0dnV2bWZ4OHdwaDV3NmJ5aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l46Cy1rHbQ92uuLXa/giphy.gif"/>
-
-🎓 B.Tech Computer Science & Information Technology
+🎓 B.Tech in Computer Science & Information Technology
 
 📊 Passionate about Data Analytics & Business Intelligence
 
-💡 Skilled in SQL, Python, Excel & Power BI
+💡 I enjoy turning raw data into meaningful business insights through dashboards and analytics.
 
-📈 Building dashboards that solve business problems
+🌱 Currently learning
 
-💼 Open to Data Analyst opportunities
+- Advanced SQL
+- Python for Data Analytics
+- Power BI DAX
+- Power Query
+
+💼 Open to
+
+- Data Analyst
+- Business Analyst
+- BI Analyst
 
 ---
 
-# 💻 Tech Stack
+# 🚀 Tech Stack
 
 <p align="center">
 
 <img src="https://skillicons.dev/icons?i=python,git,github,vscode"/>
 
-<br><br>
+</p>
+
+<p align="center">
 
 <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql"/>
 
@@ -60,15 +73,15 @@
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sampath3315&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=sampath3315&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sampath3315&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sampath3315&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img width="70%" src="https://streak-stats.demolab.com?user=sampath3315&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=sampath3315&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -94,40 +107,105 @@
 
 ---
 
-# 📂 Featured Projects
-
-| Project | Description |
-|----------|-------------|
-| 📈 Google Daily Search Behavior Analysis | Power BI dashboard analyzing search trends and user behavior. |
-| 🛒 Amazon Sales Analysis | Interactive dashboard with KPIs, sales trends, and insights. |
-| 📊 Excel Business Dashboard | KPI dashboard using Pivot Tables, Charts, and Slicers. |
-| 🐍 Python Data Analysis | Data cleaning, EDA, and visualization with Pandas & NumPy. |
-
----
-
-# 🎯 Core Skills
+# 💻 Skills
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Data%20Cleaning-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SQL-blue?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Data%20Analysis-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Data%20Visualization-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Power_BI-black?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Business%20Intelligence-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Excel-green?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Power%20BI-yellow?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data_Analysis-orange?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/SQL-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data_Visualization-red?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Python-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Business_Intelligence-purple?style=for-the-badge"/>
 
 </p>
 
 ---
 
-# 🌐 Connect With Me
+# 📂 Featured Projects
+
+## 📈 Google Daily Search Behavior Analysis
+
+📌 Power BI Dashboard
+
+📌 Trend Analysis
+
+📌 Data Cleaning
+
+📌 Business Insights
+
+---
+
+## 🛒 Amazon Sales Analysis
+
+📌 Interactive Dashboard
+
+📌 Sales KPIs
+
+📌 Customer Analysis
+
+📌 Profit Analysis
+
+---
+
+## 📊 Excel Dashboard
+
+📌 Pivot Tables
+
+📌 Slicers
+
+📌 Charts
+
+📌 KPIs
+
+---
+
+## 🐍 Python Data Analysis
+
+📌 Pandas
+
+📌 NumPy
+
+📌 Matplotlib
+
+📌 Data Cleaning
+
+---
+
+# 📜 Certifications
+
+🏅 IBM Python for Data Science
+
+🏅 Alison Python for Beginners
+
+---
+
+# 🌟 What I Do
+
+✔ Analyze Business Data
+
+✔ Create Interactive Dashboards
+
+✔ Clean and Transform Data
+
+✔ SQL Query Writing
+
+✔ Exploratory Data Analysis
+
+✔ Data Visualization
+
+✔ Business Reporting
+
+---
+
+# 📫 Connect With Me
 
 <p align="center">
 
@@ -141,10 +219,14 @@
 
 ---
 
-<div align="center">
+<h2 align="center">
 
-## ⭐ "Data is the new oil, but insights are the real fuel."
+⭐ "Without data, you're just another person with an opinion."
 
-### Thanks for visiting my profile ❤️
+</h2>
 
-</div>
+<h3 align="center">
+
+Thanks for visiting my profile ❤️
+
+</h3>
