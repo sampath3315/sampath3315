@@ -51,17 +51,15 @@
 
 # 🛠️ Tech Stack
 
-<h2 align="center">🛠️ Tech Stack</h2>
+## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" height="55" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" height="28"/>
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" height="28"/>
-</p>
-
+- Python
+- SQL
+- Power BI
+- Microsoft Excel
+- Git
+- GitHub
+- VS Code
 ---
 
 # 🚀 Featured Projects
