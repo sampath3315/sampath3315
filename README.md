@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/banner.png" alt="Dhytharam Sampath Reddy Banner" width="100%">
-</p>
-
 <h1 align="center">Hi 👋, I'm Dhytharam Sampath Reddy</h1>
 
 <h3 align="center">
@@ -9,10 +5,11 @@
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=Transforming+Raw+Data+into+Business+Insights;Power+BI+Dashboard+Developer;SQL+%7C+Python+%7C+Excel+%7C+Data+Visualization;Open+to+Data+Analyst+Opportunities"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Turning+Data+into+Meaningful+Insights;Data+Analyst+%7C+Business+Intelligence;SQL+%7C+Python+%7C+Power+BI+%7C+Excel;Open+to+Data+Analyst+Opportunities" />
 </p>
 
 <p align="center">
+
 <a href="https://www.linkedin.com/in/dhytharam-sampath-reddy-2a6067319/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -25,26 +22,26 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=sampath3315&style=for-the-badge&color=0e75b6"/>
 </p>
 
 ---
 
 # 👨‍💻 About Me
 
-🎓 **B.Tech in Computer Science & Information Technology**
+🎓 B.Tech in Computer Science & Information Technology
 
-📊 Passionate about **Data Analytics** and **Business Intelligence**
+📊 Passionate about Data Analytics, Business Intelligence, and Data Visualization.
 
-💡 I enjoy transforming raw data into meaningful insights using dashboards, reports, and visualizations.
+💡 I enjoy transforming raw data into meaningful insights through dashboards, reports, and analytical solutions.
 
 🌱 **Currently Learning**
 
 - Advanced SQL
 - Power BI (DAX & Power Query)
 - Python for Data Analytics
+- Business Intelligence
 
-💼 **Open To**
+💼 **Looking for**
 
 - Data Analyst
 - Business Analyst
@@ -56,9 +53,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,git,github,vscode"/>
-
-<br><br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
@@ -66,33 +61,11 @@
 
 <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 
-</p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 
----
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=sampath3315&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sampath3315&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=sampath3315&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sampath3315&theme=tokyo-night"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 
 </p>
 
@@ -100,61 +73,85 @@
 
 # 🚀 Featured Projects
 
-### 📈 Google Daily Search Behavior Analysis Dashboard
+## 📈 Google Daily Search Behavior Analysis Dashboard
 
-- Interactive Power BI Dashboard
-- Data Cleaning & Transformation
-- Search Trend Analysis
-- Business Insights
+📌 Analyzed Google search trends using Excel and Power BI.
 
----
+**Tools Used**
 
-### 🛒 Amazon Sales Analysis Dashboard
-
-- Sales Performance Dashboard
-- KPI Tracking
-- Customer & Product Analysis
-- Business Intelligence
+- Excel
+- Power BI
+- Data Cleaning
+- Data Visualization
 
 ---
 
-### 📊 Excel Business Dashboard
+## 🛒 Amazon Sales Analysis Dashboard
 
-- Pivot Tables
-- Charts
-- Slicers
-- KPI Reporting
+📌 Built an interactive dashboard to analyze sales performance and business KPIs.
+
+**Tools Used**
+
+- Excel
+- Power BI
 
 ---
 
-### 🐍 Python Data Analysis
+## 📊 Excel Business Dashboard
+
+📌 Created dynamic dashboards using Pivot Tables, Charts, KPIs, and Slicers.
+
+---
+
+## 🐍 Python Data Analysis
+
+📌 Performed data cleaning, exploratory data analysis (EDA), and visualization using Python.
+
+**Libraries**
 
 - Pandas
 - NumPy
-- Data Cleaning
-- Exploratory Data Analysis (EDA)
+- Matplotlib
 
 ---
 
 # 💼 Core Skills
 
-- SQL
-- Python
-- Power BI
-- Microsoft Excel
-- Data Cleaning
-- Data Analysis
-- Data Visualization
-- Dashboard Development
-- Business Intelligence
-- Exploratory Data Analysis
+✔ Data Analysis
+
+✔ Data Cleaning
+
+✔ Data Visualization
+
+✔ Dashboard Development
+
+✔ Business Intelligence
+
+✔ SQL
+
+✔ Python
+
+✔ Power BI
+
+✔ Microsoft Excel
+
+✔ Exploratory Data Analysis (EDA)
+
+✔ Reporting & Insights
 
 ---
 
 # 📜 Certifications
 
-- IBM – Python for Data Science
-- Alison – Python for Beginners
+🏅 IBM – Python for Data Science
+
+🏅 Alison – Python for Beginners
+
+---
+
+# 🎯 Career Objective
+
+I am an aspiring Data Analyst passionate about using data to solve business problems. I enjoy building dashboards, uncovering trends, and creating data-driven solutions that help organizations make informed decisions. I am continuously learning new tools and technologies to strengthen my analytical and business intelligence skills.
 
 ---
 
@@ -171,17 +168,19 @@
 </a>
 
 <a href="https://github.com/sampath3315">
-<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-<h2 align="center">
-⭐ Turning Data into Meaningful Insights
-</h2>
+<div align="center">
 
-<h3 align="center">
-Thanks for visiting my profile! 🚀
-</h3>
+## ⭐ Turning Data into Meaningful Insights
+
+*"Without data, you're just another person with an opinion."* — W. Edwards Deming
+
+Thank you for visiting my GitHub profile! 🚀
+
+</div>
