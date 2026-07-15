@@ -14,56 +14,57 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/dhytharam-sampath-reddy-2a6067319/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/sampath3315">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=sampath3315&style=for-the-badge&color=blue"/>
+<img src="https://komarev.com/ghpvc/?username=sampath3315&style=for-the-badge&color=0e75b6"/>
 </p>
 
 ---
 
 # 👨‍💻 About Me
 
-🎓 B.Tech in Computer Science & Information Technology
+🎓 **B.Tech in Computer Science & Information Technology**
 
-📊 Passionate about Data Analytics & Business Intelligence
+📊 Passionate about **Data Analytics** and **Business Intelligence**
 
-💡 I enjoy turning raw data into meaningful business insights through dashboards and analytics.
+💡 I enjoy transforming raw data into meaningful insights using dashboards, reports, and visualizations.
 
-🌱 Currently learning
+🌱 **Currently Learning**
 
 - Advanced SQL
+- Power BI (DAX & Power Query)
 - Python for Data Analytics
-- Power BI DAX
-- Power Query
 
-💼 Open to
+💼 **Open To**
 
 - Data Analyst
 - Business Analyst
-- BI Analyst
+- Business Intelligence Analyst
 
 ---
 
-# 🚀 Tech Stack
+# 🛠️ Tech Stack
 
 <p align="center">
 
 <img src="https://skillicons.dev/icons?i=python,git,github,vscode"/>
 
-</p>
+<br><br>
 
-<p align="center">
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel"/>
+<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 
 </p>
 
@@ -97,111 +98,63 @@
 
 ---
 
-# 🏆 GitHub Trophies
+# 🚀 Featured Projects
 
-<p align="center">
+### 📈 Google Daily Search Behavior Analysis Dashboard
 
-<img src="https://github-profile-trophy.vercel.app/?username=sampath3315&theme=tokyonight&row=1&column=6"/>
-
-</p>
-
----
-
-# 💻 Skills
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/SQL-blue?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Power_BI-black?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Excel-green?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Data_Analysis-orange?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Data_Visualization-red?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Business_Intelligence-purple?style=for-the-badge"/>
-
-</p>
+- Interactive Power BI Dashboard
+- Data Cleaning & Transformation
+- Search Trend Analysis
+- Business Insights
 
 ---
 
-# 📂 Featured Projects
+### 🛒 Amazon Sales Analysis Dashboard
 
-## 📈 Google Daily Search Behavior Analysis
-
-📌 Power BI Dashboard
-
-📌 Trend Analysis
-
-📌 Data Cleaning
-
-📌 Business Insights
+- Sales Performance Dashboard
+- KPI Tracking
+- Customer & Product Analysis
+- Business Intelligence
 
 ---
 
-## 🛒 Amazon Sales Analysis
+### 📊 Excel Business Dashboard
 
-📌 Interactive Dashboard
-
-📌 Sales KPIs
-
-📌 Customer Analysis
-
-📌 Profit Analysis
+- Pivot Tables
+- Charts
+- Slicers
+- KPI Reporting
 
 ---
 
-## 📊 Excel Dashboard
+### 🐍 Python Data Analysis
 
-📌 Pivot Tables
-
-📌 Slicers
-
-📌 Charts
-
-📌 KPIs
+- Pandas
+- NumPy
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
 
 ---
 
-## 🐍 Python Data Analysis
+# 💼 Core Skills
 
-📌 Pandas
-
-📌 NumPy
-
-📌 Matplotlib
-
-📌 Data Cleaning
+- SQL
+- Python
+- Power BI
+- Microsoft Excel
+- Data Cleaning
+- Data Analysis
+- Data Visualization
+- Dashboard Development
+- Business Intelligence
+- Exploratory Data Analysis
 
 ---
 
 # 📜 Certifications
 
-🏅 IBM Python for Data Science
-
-🏅 Alison Python for Beginners
-
----
-
-# 🌟 What I Do
-
-✔ Analyze Business Data
-
-✔ Create Interactive Dashboards
-
-✔ Clean and Transform Data
-
-✔ SQL Query Writing
-
-✔ Exploratory Data Analysis
-
-✔ Data Visualization
-
-✔ Business Reporting
+- IBM – Python for Data Science
+- Alison – Python for Beginners
 
 ---
 
@@ -210,9 +163,15 @@
 <p align="center">
 
 <a href="https://www.linkedin.com/in/dhytharam-sampath-reddy-2a6067319/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
+<a href="https://github.com/sampath3315">
+<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
@@ -220,13 +179,9 @@
 ---
 
 <h2 align="center">
-
-⭐ "Without data, you're just another person with an opinion."
-
+⭐ Turning Data into Meaningful Insights
 </h2>
 
 <h3 align="center">
-
-Thanks for visiting my profile ❤️
-
+Thanks for visiting my profile! 🚀
 </h3>
